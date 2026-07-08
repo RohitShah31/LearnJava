@@ -15,3 +15,14 @@ public class HelloWorld {
 ```text
 Hello, World!
 ```
+
+
+
+## Even Odd Program
+
+### Output
+
+```text
+Enter a number: 15
+15 is Odd
+```
